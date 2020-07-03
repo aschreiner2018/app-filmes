@@ -3,6 +3,7 @@ Projeto criado em React Native com um protótipo de um aplicativo que realiza a 
 
 ### Bibliotecas utilizadas
 • react-native-snap-carousel
+
 • react-native-vector-icons
 
 ### Para testar
